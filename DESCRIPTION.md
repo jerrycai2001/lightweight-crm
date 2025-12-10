@@ -1,6 +1,6 @@
 # Description
 
-# Motiation:
+# Motivation:
 Make tracking meeting ppl more accessible, and maintain relationships easier.
 
 # Implementation
